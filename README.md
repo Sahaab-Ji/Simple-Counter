@@ -6,8 +6,10 @@ A simple counter app that increments numbers when you click a button. You can sa
 
 ## 🎯 How it works
 
-- Click button to increment the counter
+- Click Add button to increment the counter
 - Save your entry with the save button
+- Back in-case of fixing your mistakes
+- Reset to reset whole page
 - All your saved entries will show up below
 - ⚠️ Everything gets cleared when you refresh the page
 
