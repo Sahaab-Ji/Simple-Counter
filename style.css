@@ -59,6 +59,32 @@
     font-weight: 700;
 }
 
+.button1:hover{
+    background-color: transparent;
+    border: 2px solid greenyellow;
+    color: greenyellow;
+    transition: 0.2s ease-in-out;
+}
+
+.button2:hover{
+    background-color: transparent;
+    border: 2px solid rgb(255, 47, 47);
+    color: rgb(255, 47, 47);
+    transition: 0.2s ease-in-out;
+}
+.button3:hover{
+    background-color: transparent;
+    border: 2px solid rgb(47, 210, 255);
+    color: rgb(47, 210, 255);
+    transition: 0.2s ease-in-out;
+}
+.button4:hover{
+    background-color: transparent;
+    border: 2px solid rgb(245, 255, 47);
+    color: rgb(245, 255, 47);
+    transition: 0.2s ease-in-out;
+}
+
 .buttons{
     display: grid;
     grid-template-columns: 1fr 1fr;
