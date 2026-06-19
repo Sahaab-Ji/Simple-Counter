@@ -114,3 +114,13 @@ body{
     margin-top: 110px;
     color: white;
 }
+
+@media (max-width: 500px) {
+    body{
+        background-color: black;
+    }
+    .outer-div{
+        margin-top: 2.2cm;
+        margin-left: 0.8cm;
+    }
+}
